@@ -1,0 +1,11 @@
+.list-item-btn {
+    width: 35px;
+    float: right;
+    border: none;
+    background-color: none!important;
+}
+
+button {
+    margin-left: 2px;
+    border: 2px;
+}
